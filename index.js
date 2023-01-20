@@ -1,5 +1,5 @@
 
-document.getElementById("answer").readOnly = true; //set this attribute in Html file
+document.getElementById("answer").readOnly = true; 
 let screen = document.getElementById("answer");
 buttons = document.querySelectorAll("button");
 let screenValue = "";
