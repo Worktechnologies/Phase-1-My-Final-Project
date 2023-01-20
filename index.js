@@ -1,6 +1,3 @@
-
-document.getElementById("answer").readOnly = true; 
-let screen = document.getElementById("answer");
 buttons = document.querySelectorAll("button");
 let screenValue = "";
 for (item of buttons) {
