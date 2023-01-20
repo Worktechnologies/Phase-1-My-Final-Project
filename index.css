@@ -1,0 +1,44 @@
+html {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    color: #ecf0f1;
+    background-color: rgb(23, 24, 37);
+    font-family: 'Fjalla One', sans-serif;
+    animation: fadein 1.5s;
+}
+h1
+{
+    font-size: 70px;
+
+}
+
+.Container
+{
+    text-align: center;
+    transform: translate();
+}
+table
+{
+    padding-left: 60px;
+    margin: 40px;
+}
+.Calculator
+{
+    padding: .25rem;
+    display: inline-block;
+}
+button
+{
+    padding: 5px;
+    background-color: wheat;
+    height: 70px;
+    width: 70px;
+    margin: .5px;
+}
+input
+{
+    font-size: 40px;
+
+}
